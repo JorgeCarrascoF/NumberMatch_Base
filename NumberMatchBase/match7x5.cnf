@@ -1,0 +1,25 @@
+7
+5
+2
+3
+3
+0
+2 4 4 4 4 
+4 2 2 2 4 
+4 3 2 4 4 
+3 2 3 2 3  
+6 2 7 2 2 
+4 3 8 3 3 
+1 2 3 4 5 
+
+
+
+
+
+1ª línea: filas del tablero
+2ª línea: columnas del tablero
+3ª línea: filas iniciales en el tablero
+4ª línea: valor máximo de las "replicas" que puede solicitar el jugador
+5ª línea: valor máximo de las "ayudas" que puede solicitar el jugador
+6ª línea: 0 si el tablero se lee desde fichero > 0 si se genera aleatoriamente el tablero
+7ª línea y siguientes: valores del tablero (se usan si la 6ª línea es 0)
